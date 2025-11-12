@@ -1,4 +1,4 @@
-# 🧠 Flask Paraphraser API (Indonesian Formal Academic Style)
+# 🧠 App Paraphraser API (Indonesian Formal Academic Style)
 
 Proyek ini adalah layanan API Flask berbasis NLP (Natural Language Processing) yang berfungsi untuk memparafrase teks atau dokumen .docx berbahasa Indonesia menjadi gaya formal dan akademik.
 Flask digunakan sebagai microservice NLP berbasis Python, sedangkan Laravel bertugas sebagai gateway API utama atau backend utama aplikasi — mengirimkan teks ke Flask untuk diproses dan menerima hasilnya untuk ditampilkan di aplikasi web.  
