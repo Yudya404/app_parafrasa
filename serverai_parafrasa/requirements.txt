@@ -1,0 +1,10 @@
+flask
+flask-cors
+transformers
+torch
+python-docx
+requests
+sentencepiece
+sacremoses
+protobuf
+tqdm
